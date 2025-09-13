@@ -1,0 +1,4 @@
+Day-1/.terraform/
+.terraform*
+terraform.tfstate
+terraform.tfstate.*
