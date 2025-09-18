@@ -1,0 +1,11 @@
+{
+    "variable": {
+        "default_tags": {
+            "description": "A map of tags",
+            "default": {
+                "Environment": "learning",
+                "Project": "terraform-learning"
+            }
+        }
+    }
+}
